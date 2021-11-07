@@ -18,3 +18,4 @@ void main()
         printf("Your discount is 5 percent");
     }
 }
+//
