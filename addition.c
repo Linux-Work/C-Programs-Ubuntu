@@ -7,7 +7,7 @@ int main()
     float a=3.45,b=5.57,sum;
     sum = a+b;
     printf("The sum is : %.2f",sum);
-    return 0
+    return 0;
 }
 */
 
